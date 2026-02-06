@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Infra.Api.Crud.Interfaces\Backend.Infra.Api.Crud.Interfaces.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Enumerators\Backend.Infra.Enumerators.csproj" />
+    <ProjectReference Include="..\Beckend.Infra.DbContext\Beckend.Infra.DbContext.csproj" />
+  </ItemGroup>
+
+</Project>

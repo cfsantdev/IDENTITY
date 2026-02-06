@@ -1,0 +1,12 @@
+D:\projects\services\Beta\Backend.Infra.Enumerators\bin\Debug\net6.0\Backend.Infra.Enumerators.deps.json
+D:\projects\services\Beta\Backend.Infra.Enumerators\bin\Debug\net6.0\Backend.Infra.Enumerators.dll
+D:\projects\services\Beta\Backend.Infra.Enumerators\bin\Debug\net6.0\Backend.Infra.Enumerators.pdb
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.csproj.AssemblyReference.cache
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.AssemblyInfoInputs.cache
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.AssemblyInfo.cs
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.csproj.CoreCompileInputs.cache
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.dll
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\refint\Backend.Infra.Enumerators.dll
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\Backend.Infra.Enumerators.pdb
+D:\projects\services\Beta\Backend.Infra.Enumerators\obj\Debug\net6.0\ref\Backend.Infra.Enumerators.dll

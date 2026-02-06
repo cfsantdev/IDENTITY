@@ -1,0 +1,12 @@
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\bin\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.deps.json
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\bin\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.dll
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\bin\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.pdb
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.csproj.AssemblyReference.cache
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.AssemblyInfoInputs.cache
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.AssemblyInfo.cs
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.csproj.CoreCompileInputs.cache
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.dll
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\refint\Backend.Infra.Identity.DbContext.Settings.dll
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\Backend.Infra.Identity.DbContext.Settings.pdb
+D:\projects\services\Beta\Backend.Infra.Identity.DbContext.Settings\obj\Debug\net6.0\ref\Backend.Infra.Identity.DbContext.Settings.dll

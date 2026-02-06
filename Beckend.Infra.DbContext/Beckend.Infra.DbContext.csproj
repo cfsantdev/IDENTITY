@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.8" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Infra.Api.ChangeRecord\Backend.Infra.Api.ChangeRecord.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Base.Interfaces\Backend.Infra.Base.Interfaces.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Mapper\Backend.Infra.Mapper.csproj" />
+    <ProjectReference Include="..\Base.Infra.Cryptography\Backend.Infra.Cryptography.csproj" />
+    <ProjectReference Include="..\Beckend.Infra.DbContext.Configurations\Backend.Infra.Api.ChangeRecord.Configurations.csproj" />
+  </ItemGroup>
+
+</Project>

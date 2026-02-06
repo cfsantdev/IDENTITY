@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMhsn1McE3Iina0vdDKPQ+Lxt7T1kA5iqpmy+qM7XXGkQ2vT0KMJToQlZJKXBjyyWBFVi254q1mnpdGxBbIBPA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\services\\Beta\\Backend.Infra.Api.ChangeRecord.DTO\\Backend.Infra.Api.ChangeRecord.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfsant\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\cfsant\\.nuget\\packages\\cfsdev.beckend.infra.cryptography\\1.0.0\\cfsdev.beckend.infra.cryptography.1.0.0.nupkg.sha512",
+    "C:\\Users\\cfsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cfsant\\.nuget\\packages\\namotion.reflection\\2.1.0\\namotion.reflection.2.1.0.nupkg.sha512",
+    "C:\\Users\\cfsant\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\cfsant\\.nuget\\packages\\njsonschema\\10.8.0\\njsonschema.10.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

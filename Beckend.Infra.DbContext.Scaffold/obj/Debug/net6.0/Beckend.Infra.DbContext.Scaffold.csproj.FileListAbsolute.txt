@@ -1,0 +1,15 @@
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\bin\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.deps.json
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\bin\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.dll
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\bin\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.pdb
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\bin\Debug\net6.0\Backend.Infra.Base.Interfaces.dll
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\bin\Debug\net6.0\Backend.Infra.Base.Interfaces.pdb
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.csproj.AssemblyReference.cache
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.AssemblyInfoInputs.cache
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.AssemblyInfo.cs
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.csproj.CoreCompileInputs.cache
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.csproj.CopyComplete
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.dll
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\refint\Beckend.Infra.DbContext.Scaffold.dll
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\Beckend.Infra.DbContext.Scaffold.pdb
+D:\projects\services\Beta\Beckend.Infra.DbContext.Scaffold\obj\Debug\net6.0\ref\Beckend.Infra.DbContext.Scaffold.dll

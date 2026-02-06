@@ -1,0 +1,12 @@
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\bin\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.deps.json
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\bin\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\bin\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.pdb
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.csproj.AssemblyReference.cache
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.AssemblyInfoInputs.cache
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.AssemblyInfo.cs
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.csproj.CoreCompileInputs.cache
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\refint\Backend.Infra.Exceptions.Internal.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\Backend.Infra.Exceptions.Internal.Interfaces.pdb
+D:\projects\services\Beta\Backend.Infra.Exceptions.Internal.Interfaces\obj\Debug\net6.0\ref\Backend.Infra.Exceptions.Internal.Interfaces.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Backend.Infra.Exceptions.Internal/1.0.0": {
+        "dependencies": {
+          "Backend.Infra.Exceptions.Internal.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Backend.Infra.Exceptions.Internal.dll": {}
+        }
+      },
+      "Backend.Infra.Exceptions.Internal.Interfaces/1.0.0": {
+        "runtime": {
+          "Backend.Infra.Exceptions.Internal.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend.Infra.Exceptions.Internal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Backend.Infra.Exceptions.Internal.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

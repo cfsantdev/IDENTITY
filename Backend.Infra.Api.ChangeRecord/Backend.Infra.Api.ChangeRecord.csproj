@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="NJsonSchema" Version="10.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Infra.Api.ChangeRecord.DTO.Interfaces\Backend.Infra.Api.ChangeRecord.DTO.Interfaces.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Api.ChangeRecord.Interfaces\Backend.Infra.Api.ChangeRecord.Interfaces.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Base.Interfaces\Backend.Infra.Base.Interfaces.csproj" />
+    <ProjectReference Include="..\Backend.Infra.Base\Backend.Infra.Base.csproj" />
+  </ItemGroup>
+
+</Project>
