@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Backend.Infra.Identity.Interfaces": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55425;http://localhost:55429"
+    }
+  }
+}
